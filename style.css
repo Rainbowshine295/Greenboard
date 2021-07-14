@@ -1,0 +1,36 @@
+body {
+  background-color: skyblue;
+  background-image: url("galaxy.png");
+}
+  #myCanvas
+  {
+     border: 20px ridge saddlebrown;
+      background-color: seagreen;
+      float: left;
+  }
+  button {
+    border-radius: 16px;
+    width: 100px;
+    height: 30px;
+  }
+  #red_chalk {
+    background-color: red;
+    color: yellow;
+  }
+  #yellow_chalk {
+    background-color: gold;
+    color: tomato;
+  }
+  #white_chalk {
+    background-color: floralwhite;
+    color: midnightblue;
+
+  }
+  #blue_chalk {
+    background-color: skyblue;
+    color: mintcream;
+  }
+  #duster {
+    background-color: yellow;
+    color: black;
+  }
